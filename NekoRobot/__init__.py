@@ -345,7 +345,7 @@ TIGERS = list(TIGERS)
  #   CustomCommandHandler,
  #   CustomMessageHandler,
  #   CustomRegexHandler,
-)
+#)
 
 # make sure the regex handler can take extra kwargs
 #tg.RegexHandler = CustomRegexHandler
